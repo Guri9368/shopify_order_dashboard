@@ -2,7 +2,7 @@
 📦 Shopify Order Dashboard
 A full-stack web application for managing and visualizing Shopify orders with real-time synchronization, built with React, Node.js, Express, and PostgreSQL.
 
-[![React](https://img.shields.io/badge/React-18.0+-61DAFB?logo![Node.js](https://img.shields.io/badge/Node.js-20eScript](https://img.shields.io/badge/TypeScript-5.0+-3178C6?logo=typescript&logoColor=whiteimg.shields.io/badge/PostgreSQL-16+-4MIT](https://img.shields ✨ Features
+
 
 🔐 OAuth 2.0 Authentication - Secure Shopify app integration
 
